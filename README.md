@@ -9,6 +9,7 @@
 - 👯 岗位: 运维开发、基础架构
 
 
+
 ### 作品传送门
 1. [golang开源图书](https://ithaiq.gitbook.io/golang/)
 
@@ -19,4 +20,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ithaiq&layout=compact&hide=HTML)](https://github.com/ithaiq/go-gitbook)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ithaiq&repo=go-gitbook)](https://github.com/ithaiq/go-gitbook)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ithaiq&repo=practice-gtcp)](https://github.com/ithaiq/practice-gtcp)
 
