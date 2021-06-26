@@ -20,6 +20,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ithaiq&layout=compact&hide=HTML)](https://github.com/ithaiq/go-gitbook)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ithaiq&repo=go-gitbook)](https://github.com/ithaiq/go-gitbook)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ithaiq&repo=practice-gtcp)](https://github.com/ithaiq/practice-gtcp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ithaiq&repo=practice-go)](https://github.com/ithaiq/practice-go)
 
