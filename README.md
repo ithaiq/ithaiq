@@ -6,7 +6,7 @@
 - 🌱 正在努力学习Go、Kubernetes
 - 📫 联系方式: mthaiqi@gmail.com
 - 😄 现居住地: 深圳
-- 👯 岗位: 运维开发、基础架构
+- 👯 岗位: golang开发、基础架构、k8s方向
 
 
 
