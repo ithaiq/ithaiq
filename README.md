@@ -12,11 +12,7 @@
 
 ![ithaiq's github stats](https://github-readme-stats.vercel.app/api?username=ithaiq&show_icons=true&theme=dracula)
 
-### 作品传送门
+### 项目
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ithaiq&repo=go-gitbook)](https://github.com/ithaiq/go-gitbook)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ithaiq&repo=practice-go)](https://github.com/ithaiq/practice-go)
 
-### 影响力
-[分布式事务内部分享](https://equatorial-statistic-080.notion.site/749620781963425e9c3d20e28f6ff543)
-
-[Kubernetes内部分享](https://equatorial-statistic-080.notion.site/Kubernetes-bacb24b8a6a64404b52f8786b6f6d84a)
