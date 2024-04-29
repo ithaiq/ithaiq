@@ -3,10 +3,10 @@
 ### 关于ithaiq（海）
 
 - 🔭 正在撰写的开源书籍 [Golang光速实战](https://ithaiq.gitbook.io/golang/)
-- 🌱 正在努力学习Go、Kubernetes
+- 🌱 正在努力学习Go、Kubernetes、python
 - 📫 联系方式: mthaiqi@gmail.com
-- 😄 现居住地: 深圳
-- 👯 岗位: golang开发、基础架构、k8s方向
+- 😄 现居住地: 深圳/成都
+- 👯 岗位: 高级后端开发
 
 
 
